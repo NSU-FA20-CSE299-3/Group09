@@ -4,41 +4,27 @@
 <p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
 
 
-**North South University**
 
- Department of Electrical &amp; Computer Engineering
+<p align="center"><strong>North South University</strong></p>
+<p align="center">Department of Electrical &amp; Computer Engineering</p>
+<p align="center"><strong>Project Proposal</strong></p>
+<p align="center"><strong>Group No</strong>: 9</p>
+<p align="center"><strong>FALL 2020 </strong></p>
+<p align="center"><strong>Project Name</strong>: Guardian Angel </p>
+<p align="center"><strong>Course No</strong>: CSE 299 <strong>Sec</strong><strong>:</strong> 3</p>
+<p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
+<p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
+<p align="center"><strong>Name</strong><strong>:</strong> Antu Saha</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1722104642</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:Antu.Saha@northsouth.edu">Antu.Saha@northsouth.edu</a></p>
+<p align="center"><strong><u>Member 2</u></strong><strong><u>:</u></strong></p>
+<p align="center"><strong>Name</strong><strong>:</strong> Ashddin Huq</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1632482042</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:Ashddin.huq@northsouth.edu"> Ashddin.huq @northsouth.edu</a></p>
+<p align="center"><strong>Date Prepared</strong><strong>: </strong>13/11/2020</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
 
-**Project Proposal**
-                                                                      
-   **Group No:** 9
-
-   **Fall 2020**
-
-   **Project Name** : Guardian Angel
-
-   **Course No** : CSE 299
-
-   **Sec:**  3
-
-   **Faculty** : Shaikh Shawon Arefin Shimon (Sas3)
-
-   **Member 1** :
-
-   **Name:**  Antu Saha
-
-  **ID:**   1722104642
-
-   **Email:**  [Antu.saha@northsouth.edu](mailto:Antu.saha@northsouth.edu)
-
-   **Member 2:**
-
-   **Name:**  Ashddin Huq
-
-   **ID:** 1632482042
-
-   **Email:**  [ashddin.huq@northsouth.edu](mailto:ashddin.huq@northsouth.edu)
-
-   **Date Prepared:** 13/11/2020
 
 # **Introduction:**
 
