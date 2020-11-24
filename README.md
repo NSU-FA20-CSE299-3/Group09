@@ -1,36 +1,38 @@
- **North South University**
+                                                                   **North South University**
 
-Department of Electrical &amp; Computer Engineering
+                                                    Department of Electrical &amp; Computer Engineering
 
-**Project Proposal**
+                                                                     **Project Proposal**
+                                                                     
+                                                                      **Group No:** 7
 
-**Fall 2020**
+                                                                        **Fall 2020**
 
-**Project Name** : Guardian Angel
+                                                             **Project Name** : Guardian Angel
 
-**Course No** : CSE 299
+                                                                 **Course No** : CSE 299
 
-**Sec:**  3
+                                                                        **Sec:**  3
 
-**Faculty** : Shaikh Shawon Arefin Shimon (Sas3)
+                                                     **Faculty** : Shaikh Shawon Arefin Shimon (Sas3)
 
-**Member 1** :
+                                                                       **Member 1** :
 
-**Name:**  Antu Saha
+                                                                    **Name:**  Antu Saha
 
-**ID:**   1722104642
+                                                                    **ID:**   1722104642
 
-**Email:**  [Antu.saha@northsouth.edu](mailto:Antu.saha@northsouth.edu)
+                                          **Email:**  [Antu.saha@northsouth.edu](mailto:Antu.saha@northsouth.edu)
 
-**Member 2:**
+                                                                        **Member 2:**
 
-**Name:**  Ashddin Huq
+                                                                   **Name:**  Ashddin Huq
 
-**ID:** 1632482042
+                                                                     **ID:** 1632482042
 
-**Email:**  [ashddin.huq@northsouth.edu](mailto:ashddin.huq@northsouth.edu)
+                                          **Email:**  [ashddin.huq@northsouth.edu](mailto:ashddin.huq@northsouth.edu)
 
-**Date Prepared:** 13/11/2020
+                                                                **Date Prepared:** 13/11/2020
 
 # **Introduction:**
 
