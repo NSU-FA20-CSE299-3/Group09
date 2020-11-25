@@ -21,6 +21,9 @@
 <p align="center"><strong>Name</strong><strong>:</strong> Ashddin Huq</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1632482042</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:Ashddin.huq@northsouth.edu"> Ashddin.huq @northsouth.edu</a></p>
+
+<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-FA20-CSE299-3/Group09">https://github.com/NSU-FA20-CSE299-3/Group09</a></p>
+
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>13/11/2020</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
