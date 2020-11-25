@@ -31,9 +31,7 @@
 
 # **Introduction:**
 
-Bangladesh is slowly growing as a medium income country. Our lives have drastically changed in the past thirty years. Internet had brought forth globalization, and globalization had brought forth prosperity. Yet still there is a very long way to go. Universal Healthcare is still a foreign concept to us. All of our lives would be dramatically different if we did not have to worry for our medical bills, and the medical bills of our family members. Diseases, falling ill, these are a part of every single life on this blue planet. What makes us different is that we, as a species can cure most of the deadly diseases, or vaccinate against it. And those that we cannot cure or prevent now, we will do it in the future! But healing is not free. Everything has a price. Not everyone is able to pay that price. In the western world most countries have Universal Healthcare or some sort of medical aid. We are not there yet. John F. Kennedy said in his inauguration speech, &quot;Ask not what your country can do for you – ask what you can do for your country.&quot; We must help ourselves first, we need to be helped first.
-
-Now I have to be cold about this, emotion sells, and emotion sells like hot cake when it is on the internet. We see medical help posts on every social media every day. And people do help. But most of the time the help come within the country, by some good Samaritan. But what if people of the first world could directly come to the aid of the rest of the world? Enter, &quot;Guardian Angel&quot; our web application. We will directly connect individuals to one another on a personal level. When you help a child or an adult with a new life on a personal level, that will surely mean something to you. You can sleep easy at night, knowing there is at least one life that has been saved by your intervention, Devine or not!
+_Guardian Angel_ is a crowd funded medical aid web application. There will be two types of user. Donners and donation seekers. A user can be both at the same time. Donners will be able to know the person seeking for help on a personal level. After a successful recovery donners will be able to see a follow up on those who survived. Users will also see those, who plead for help and perished. This will instill a sense of accomplishment in the donners. Our intention is to help those who are from developing nations or under developed nations.
 
 # **Features:**
 
@@ -82,15 +80,21 @@ Initially users can contact each other through other third-party applications. W
 
 # **Technology:**
 
-Front end: We will use html and CSS to design the frontend.
+Front end: We will use HTML and CSS to design the frontend. All static pages of our web application will be made using HTML and CSS.
 
-Back end: We will use python for backend.
+Back end: We will use python for backend. We will turn our static pages into dynamic and functional pages using python.
 
 Database: We will use MySQL for database.
 
-Framework: We will use Django as a framework.
+Framework: We will use Django as a framework. This shorten the development time. And also keep things organized.
 
-Payment gateway: We will use Stripe API for payments.
+Payment gateway: We will use Stripe API for payments. We will be able to use this in our test case. The authentication key will determine whether the request is live data or test case.
+
+# **Social impact:**
+
+Bangladesh is slowly growing as a medium income country. Our lives have drastically changed in the past thirty years. Internet had brought forth globalization, and globalization had brought forth prosperity. Yet still there is a very long way to go. Universal Healthcare is still a foreign concept to us. All of our lives would be dramatically different if we did not have to worry for our medical bills, and the medical bills of our family members. Diseases, falling ill, these are a part of every single life on this blue planet. What makes us different is that we, as a species can cure most of the deadly diseases, or vaccinate against it. And those that we cannot cure or prevent now, we will do it in the future! But healing is not free. Everything has a price. Not everyone is able to pay that price. In the western world most countries have Universal Healthcare or some sort of medical aid. We are not there yet. John F. Kennedy said in his inauguration speech, &quot;Ask not what your country can do for you – ask what you can do for your country.&quot; We must help ourselves first, we need to be helped first.
+
+Now I have to be cold about this, emotion sells, and emotion sells like hot cake when it is on the internet. We see medical help posts on every social media every day. And people do help. But most of the time the help come within the country, by some good Samaritan. But what if people of the first world could directly come to the aid of the rest of the world? Enter, &quot;Guardian Angel&quot; our web application. We will directly connect individuals to one another on a personal level. When you help a child or an adult with a new life on a personal level, that will surely mean something to you. You can sleep easy at night, knowing there is at least one life that has been saved by your intervention, Devine or not!
 
 # **Monetization:**
 
@@ -103,3 +107,4 @@ Our main goal will always be to help those who are doomed. But we will also have
 Our main goal will be to minimize sufferings. Households that might not have survived financially, help them to prosper. In future we wish to include chat, voice chat, video chat so that both parties can form a bond of some sort. We wish to implement Google Translate API to translate texts to user&#39;s native language.
 
 We all might have helped a hundred strangers, but this time we will help someone we have got to know. Right now, we lack many skills and knowledge. _Guardian Angel_ will not be built in a day.
+
