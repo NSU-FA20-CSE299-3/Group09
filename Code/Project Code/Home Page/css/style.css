@@ -532,3 +532,24 @@ footer .copyright p {
     .about-us .row > div > .item:nth-of-type(3) p {
         display: none;
     }
+    /* agency */
+    
+    .agency img:first-of-type, .agency img:last-of-type {
+        width: 150px
+    }
+    .agency .container > div > div img {
+        max-width: 400px;
+        width: 100%;
+    }
+    .agency .container > div h2 {
+        bottom: 87px;
+        left: 164px;
+        font-size: 30px;
+    }
+    .agency .container > div h2 {
+        display: none;
+    }
+
+}
+
+@media (max-width: 992px) {
