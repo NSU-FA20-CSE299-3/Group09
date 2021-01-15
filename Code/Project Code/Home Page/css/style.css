@@ -490,3 +490,45 @@ footer .copyright p {
     margin-bottom: 0;
     font-size: 16px;
 }
+/* media queries */
+
+@media (max-width: 1200px) {
+    
+    /* about */
+    
+    .about-us .row > .col-lg-6:first-of-type {
+        left: -10px;
+    }
+    .about-us .small-container .text-right p {
+        width: 70%
+    }
+    .about-us .item {
+        width: 150px
+    }
+    .about-us .item img {
+        height: 125px
+    }
+    .about-us .item:first-of-type {
+        left: 440px;
+        bottom: 154px;
+    }
+    .about-us .item:nth-of-type(2) {
+        left: 167px;
+        bottom: 153px;
+    }
+    .about-us .item:nth-of-type(3) {
+        top: 149px;
+        left: 19px;
+    }
+    .about-us .item:last-of-type {
+        left: 305px;
+        top: 132px;
+    }
+    
+    .about-us .row > div > .item:nth-of-type(3) img {
+        position: static
+    }
+    
+    .about-us .row > div > .item:nth-of-type(3) p {
+        display: none;
+    }
