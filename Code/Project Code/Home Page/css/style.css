@@ -237,3 +237,153 @@ header button:hover a {
     top: 140px;
     z-index: -5;
 }
+.about-us .second {
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    background-color: #bd8cbf;
+    bottom: 58px;
+    right: 34px;
+    z-index: -5;
+}
+
+.about-us .row > div > .item:nth-of-type(3) div {
+    position: relative;
+    z-index: 5;
+    background-color: #bd8cbf;
+    padding: 5px;
+}
+
+/* services */
+
+.services {
+    margin-bottom: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.services .slide {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.services .carousel-inner .carousel-item {
+    width: 100%;
+    height: 100%
+}
+
+.services .carousel-inner img {
+    height: 100%;
+    width: 100%;
+}
+
+.services .carousel-control-next, .services .carousel-control-prev {
+    width: 60px;
+    height: 60px;
+    background: #bd8cbf;
+    border-radius: 50%;
+}
+
+.services .carousel-control-next i, .services .carousel-control-prev i {
+    color: #000
+}
+
+.services .carousel-control-next {
+    right: 0;
+    top: 80%;
+    right: 40%;
+    background-color: #FFF;
+}
+
+.services .carousel-control-prev {
+    top: 80%;
+    left: 40%;
+}
+
+.services i {
+    color: #bd8cbf;
+}
+
+/* agency */
+
+.agency {
+    background-image: url('../images/24.jpg');
+    font-family: 'Open Sans', sans-serif;
+    background-size: cover;
+}
+
+.agency .container > div {
+    margin: 0 auto;
+    width: 86%;
+    margin-bottom: 30px;
+}
+
+.agency .white-overlay {
+   padding: 30px 0 20px;
+}
+
+.agency .container > div > div {
+    display: inline-block;
+    position: relative
+}
+
+.agency .container > div > div img {
+    width: 500px;
+    margin: 0 20px;
+}
+
+.agency img:first-of-type, .agency img:last-of-type {
+    width: 200px;
+}
+
+.agency .container > div h2 {
+    position: absolute;
+    color: white;
+    bottom: 105px;
+    left: 195px;
+    font-size: 40px;
+}
+
+/* statistics */
+
+.statistics {
+    padding: 50px 0;
+    font-family: sans-serif;
+}
+
+.statistics i, .statistics p {
+    color: #bd8cbf;
+}
+
+.statistics i {
+    margin-bottom: 10px;
+}
+
+.statistics h3 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+/* contact */
+
+.contact {
+    background-image: url('../images/27.jpg');
+    background-size: cover;
+}
+
+.contact h2 {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.contact .contact-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.contact form input, .contact form textarea {
+    width: 100%;
+    outline: none;
+    border: none;
+    padding: 5px 10px;
+}
