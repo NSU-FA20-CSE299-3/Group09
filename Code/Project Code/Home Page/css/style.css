@@ -553,3 +553,35 @@ footer .copyright p {
 }
 
 @media (max-width: 992px) {
+    /* header */
+    
+    header h1 {
+        font-size: 65px !important;
+    } 
+    
+    /* navbar */
+    
+    .navbar ul {
+        background-color: rgba(189, 140, 191, .85);
+    }
+    .navbar ul li {
+        margin: 10px 0;
+    }
+    nav.navbar form {
+        width: 100%;
+        position: static;
+    }
+    
+    /* about */
+    
+    .about-us .small-container > p + div {
+        padding: 50px 0;
+    }
+    .about-us .row > .col-lg-6:first-of-type {
+        height: 350px;
+        left: 50px;
+    }
+    .about-us .small-container .text-right p {
+        width: 100%;
+    }
+    
