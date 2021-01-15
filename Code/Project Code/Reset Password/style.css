@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #1e76cc;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+
+
+.loginbox{
+    width: 525px;
+    height: 670px;
+    background:  url(bg.jpg);
+   
+    color: rgb(197, 190, 190);
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 90px 50px;
+}
+
+
+h1{
+    margin: 0;
+    padding: 15 0 40px;
+    text-align: center;
+    font-size: 25px;
+
+}
