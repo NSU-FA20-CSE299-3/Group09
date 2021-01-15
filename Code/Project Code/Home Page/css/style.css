@@ -134,3 +134,49 @@ header button:hover {
 header button:hover a {
     color: white;
 }
+/* about us */
+
+.about-us {
+    position: relative;
+    padding: 100px 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-us .row > .col-lg-6:first-of-type {
+    position: relative;
+    left: 50px;
+}
+
+.about-us .small-container > p + div {
+    padding: 70px 0;
+    background-color: white;
+    box-shadow: 5px 5px 10px #d2cfcf, -5px -5px 10px #d2cfcf;
+}
+
+.about-us .small-container > p + div h4 {
+    margin-bottom: 40px
+}
+
+.about-us .small-container .text-right p {
+    margin-bottom: 40px;
+    width: 80%;
+    float: right;
+}
+
+.about-us .small-container > p + div button {
+    background-color: #bd8cbf;
+    border: none;
+}
+
+.about-us .small-container > p + div a {
+    display: block;
+    color: #FFF;
+    padding: 10px 40px;
+}
+
+.about-us .item {
+    width: 200px;
+    position: absolute;
+    color: white;
+    background-color: #bd8cbf;
+}
