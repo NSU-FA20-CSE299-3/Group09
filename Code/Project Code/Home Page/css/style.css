@@ -387,3 +387,61 @@ header button:hover a {
     border: none;
     padding: 5px 10px;
 }
+.contact form input{
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+.contact form textarea {
+    resize: none;
+    height: 130px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+
+.contact form input[type="submit"] {
+    width: 130px;
+    height: 40px;
+    padding: 0;
+    line-height: 40px;
+    background-color: #ef44f8;
+    color: white;
+    margin: 0 auto;
+    display: block;
+}
+
+/* footer */
+
+footer, footer a {
+    color: white;
+}
+
+footer {
+    display: block;
+    overflow: hidden;
+    background-color: #563158;
+}
+
+footer a:hover {
+    color: #bd8cbf
+}
+
+footer .container > ul {
+    overflow: hidden;
+    margin: 30px 0;
+    padding-left: 0;
+}
+
+footer .container > ul li {
+    float: left;
+    padding-right: 25px;
+}
+
+footer .item h4 {
+    margin-bottom: 20px
+}
+
+footer .item p.address {
+    line-height: 1.2;
+    font-size: 16px;
+}
