@@ -34,3 +34,42 @@ h2 span, h1 span {
 li {
     list-style-type: none;
 }
+a:hover {
+    text-decoration: none;
+}
+
+a, button {
+    transition: all .5s ease;
+}
+
+button {
+    padding: 0
+}
+
+body {
+    font-size: 1.1rem;
+}
+
+/* navbar */
+
+nav.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    width: 100%;
+    z-index: 1000;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav.navbar a, nav.navbar ul li a {
+    color: #FFF !important;
+}
+
+nav.navbar ul li {
+    padding: 0 15px;
+}
+
+nav.navbar .search-container {
+    position: relative;
+}
