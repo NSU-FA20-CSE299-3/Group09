@@ -1,96 +1,101 @@
-
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
-<p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
-
-
-
+<p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172"></strong></p>
 <p align="center"><strong>North South University</strong></p>
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
-<p align="center"><strong>Project Proposal</strong></p>
 <p align="center"><strong>Group No</strong>: 9</p>
-<p align="center"><strong>FALL 2020 </strong></p>
-<p align="center"><strong>Project Name</strong>: Guardian Angel </p>
+<p align="center"><strong>FALL 2020&nbsp;</strong></p>
+<p align="center"><strong>Project Name</strong>: Guardian Angel</p>
 <p align="center"><strong>Course No</strong>: CSE 299 <strong>Sec</strong><strong>:</strong> 3</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Antu Saha</p>
-<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1722104642</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp;&nbsp;</strong>1722104642</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:Antu.Saha@northsouth.edu">Antu.Saha@northsouth.edu</a></p>
 <p align="center"><strong><u>Member 2</u></strong><strong><u>:</u></strong></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Ashddin Huq</p>
-<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1632482042</p>
-<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:Ashddin.huq@northsouth.edu"> Ashddin.huq @northsouth.edu</a></p>
-
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-FA20-CSE299-3/Group09">https://github.com/NSU-FA20-CSE299-3/Group09</a></p>
-
-<p align="center"><strong>Date Prepared</strong><strong>: </strong>13/11/2020</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp;&nbsp;</strong>1632482042</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:Ashddin.huq@northsouth.edu">&nbsp;Ashddin.huq @northsouth.edu</a></p>
+<p align="center"><strong>Git Repository</strong><strong>:&nbsp;</strong><a href="https://github.com/NSU-FA20-CSE299-3/Group09">https://github.com/NSU-FA20-CSE299-3/Group09</a></p>
+<p align="center"><strong>Date Prepared</strong><strong>:&nbsp;</strong>21/01/2021</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
-
-
-<p><strong>Introduction:</strong></p>
-<p><em>Guardian Angel </em>is a crowdfunded medical aid web application. There will be two types of users. Donners and donation seekers. A user can be both at the same time. Donners will be able to know the person seeking help on a personal level. After a successful recovery, dinners will be able to see a follow up on those who survived. Users will also see those, who plead for help and perished. This will instill a sense of accomplishment in the dinners. Our intention is to help those who are from developing nations or underdeveloped nations.</p>
-<p>&nbsp;</p>
-<p><strong>Features:</strong></p>
-<p>Users, who are unable to pay for treatments that are life-threatening, impose imminent danger, will be able to sign up to our site. Then they can post for help. This will be limited so minimize spam posts and profile. We might ask for all the documents to be notarized.</p>
-<p>&nbsp;</p>
-<p>In order to sign up, it will require:</p>
-<ul>
-<li>Valid email address/ cellphone number</li>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Project Name: Guardian Angel</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Table of contents</span></strong></p>
+<div style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'>
+    <ol style="margin-bottom:0in;list-style-type: decimal;margin-left:0in;">
+        <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-family:"Segoe UI","sans-serif";'>Introduction</span></li>
+    </ol>
+</div>
+<p style='margin-right:0in;margin-left:.5in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<ol start="2" style="margin-bottom:0in;" type="1">
+    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:     white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:blue;'><a href="https://github.com/NSU-SU19CSE299S16/SU19CSE299S16G03NSU/blob/master/README.md#features"><span style="color:blue;text-decoration:none;">Software Specification</span></a></span></li>
+</ol>
+<p style='margin-right:0in;margin-left:.5in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:blue;'><a href="https://github.com/NSU-SU19CSE299S16/SU19CSE299S16G03NSU/blob/master/README.md#features"><span style="color:blue;text-decoration:none;"><br>&nbsp;</span></a></span></p>
+<div style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'>
+    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:0in;">
+        <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-family:"Segoe UI","sans-serif";'>Technology</span></li>
+    </ol>
+</div>
+<p style='margin-right:0in;margin-left:.5in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<ol start="4" style="margin-bottom:0in;" type="1">
+    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:     white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:blue;'><a href="https://github.com/NSU-SU19CSE299S16/SU19CSE299S16G03NSU/blob/master/README.md#businessplan"><span style="color:blue;text-decoration:none;">BusinessPlan/Monetization</span></a></span></li>
+</ol>
+<p style='margin-right:0in;margin-left:.5in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<div style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'>
+    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:0in;">
+        <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-family:"Segoe UI","sans-serif";'>Conclusion</span></li>
+    </ol>
+</div>
+<p style='margin-right:0in;margin-left:.5in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>1. Introduction</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>1.1 Project Idea:</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>We dream of a world where no has die due to the lack of medical attention. Guardian Angel is a web application for crowd funding medical aids. Our application will streamline the process of getting medical aid quickly, so that the treatment could proceed without any worries about funding. Our goal is to be the bridge between the high income households and the low income households, all over the world. Resource will always be scarce but the distribution among them is what matters. People in need of medical aid will be able to reach a new domain of people who are willing to help. Our challenge is to simplify this enormous task.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>2. Software Specification</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;background:white;'>This project has the following features -</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>2.1 User Registration:</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;background:white;'>To access our platform users first have to register. Users must include username, email and password. The username will be used as a primary key to identify unique users. And so username will have to be unique. And it must contain 150 characters or fewer characters. Letters, digits and @/./+/-/_ are permitted only.</span><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br> <br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;text-align:center;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>2.2 Login to a platform :</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;background:white;'>The main feature of &lsquo;Guardian Angel&rsquo; is that users will be able to view different options on one window after logging in once. This section is know as the profile. The users information is shown on the left as seen in figure 2.0.</span><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br> <br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Currently the following functions are available -</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>* Users will be able to see about.<br> * Users can see our different services.<br>&nbsp;* Users can contact with the admin panel if any kind of issue created.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>*Users can post their update and can delete.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br> <br> <br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;text-align:center;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>2.3 Admin Panel:</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;background:white;'>There&apos;s also a Admin panel from which the admin can delete unwanted users and delete their post.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:16px;font-family:"Times New Roman","serif";'>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;text-align:center;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>3. Technology</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>3.1 Proposed Technology Stack:</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>For UI design we decided to use Bootstrap. Bootstrap is a free and open-source CSS framework directed at responsive front-end web development. It contains CSS and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components. Bootstrap will be used over the usual HTML and CSS. And for the backend we will be using Django framework. It is a application framework. It is a minimal and flexible Node.Django application framework that provides robust set of features.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Finally, for the database requirement we have opted to use a NoSQL database. And so we have decided to use MongoDB for the projects database requirement. The reason for doing so is because we have only three entities:</span></p>
+<ul style="margin-bottom:0in;" type="disc">
+    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";'>USER: Will keep info about the users signing in the application.</span></li>
+    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";'>PLATFORM: The platform information for the signed in USER entity.</span></li>
 </ul>
-<p>Help post will require:</p>
-<ul>
-<li>NID photo (guardians for children)</li>
-<li>Doctor&rsquo;s prescription</li>
-<li>Past treatments</li>
-<li>Medical History</li>
-<li>Notarized Medical Certificates</li>
-<li>Personal photos (as many as the user wants)</li>
-<li>A brief description (5000 characters)</li>
-<li>An essay (optional)</li>
-<li>Contact information (number/address/social medias etc.)</li>
-<li>Amount of funds needed</li>
-</ul>
-<p>&nbsp;</p>
-<p>The homepage will show a list of helpful posts. This is not final, but the idea is to show the oldest-not-helped-children. Oldest as in posted how long ago. Each Help post will provide the following information:</p>
-<ul>
-<li>Primary picture</li>
-<li>Name</li>
-<li>Age</li>
-<li>Short bio</li>
-<li>Disease</li>
-</ul>
-<p>&nbsp;</p>
-<p>There will be a search bar at the top. Users can search for anything, for example, name, country, age, disease, etc.</p>
-<p>Users can view all the necessary information related to a particular post by clicking on it. On top and bottom, there will be a Donate button. Clicking that button will directly take the user to the payment page. There the user will fill in the necessary payment information and make the donation.</p>
-<ul>
-<li>Users can know more by visiting a Help post</li>
-</ul>
-<p>&nbsp;</p>
-<p>Donators will be notified when a Help post reaches its goal.</p>
-<ul>
-<li>Via email/ text</li>
-</ul>
-<p>&nbsp;</p>
-<p>All saved and unsaved lives will be displayed on the home page.</p>
-<p>Users can bookmark a Help post. No limit on how many can be bookmarked.</p>
-<p>Initially, users can contact each other through other third-party applications. We hope to change this in the future.</p>
-<p><strong>Technology:</strong></p>
-<p>Front end: We will use HTML and CSS to design the frontend. All static pages of our web application will be made using HTML and CSS.</p>
-<p>Back end: We will use python for the backend. We will turn our static pages into dynamic and functional pages using python.</p>
-<p>Database: We will use MySQL for the database.</p>
-<p>Framework: We will use Django as a framework. This shortens the development time. And also keep things organized.</p>
-<p>Payment gateway: We will use Stripe API for payments. We will be able to use this in our test case. The authentication key will determine whether the request is live data or a test case.</p>
-<p>&nbsp;</p>
-<p><strong>Social impact:</strong></p>
-<p>Bangladesh is slowly growing as a medium-income country. Our lives have drastically changed in the past thirty years. The Internet had brought forth globalization, and globalization had brought forth prosperity. Yet still, there is a very long way to go. Universal Healthcare is still a foreign concept to us. All of our lives would be dramatically different if we did not have to worry about our medical bills and the medical bills of our family members. Diseases, falling ill, these are a part of every single life on this blue planet. What makes us different is that we, as a species can cure most of the deadly diseases, or vaccinate against it. And those that we cannot cure or prevent now, we will do it in the future! But healing is not free. Everything has a price. Not everyone is able to pay that price. In the western world, most countries have Universal Healthcare or some sort of medical aid. We are not there yet. John F. Kennedy said in his inauguration speech, &ldquo;Ask not what your country can do for you &ndash; ask what you can do for your country.&rdquo; We must help ourselves first, we need to be helped first.</p>
-<p>Now I have to be told about this, emotion sells, and emotion sells like a hot cake when it is on the internet. We see medical help posts on social media every day. And people do help. But most of the time the help comes within the country, by some good Samaritan. But what if people of the first world could directly come to the aid of the rest of the world? Enter, &ldquo;Guardian Angel&rdquo; our web application. We will directly connect individuals to one another on a personal level. When you help a child or an adult with a new life on a personal level, that will surely mean something to you. You can sleep easy at night, knowing there is at least one life that has been saved by your intervention, Devine or not!&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Monetization:</strong></p>
-<p>Initially, we will keep a small portion from the donations to cover the cost of the operations to keep the service running. We will in the meantime, actively seek investors. When we will have generated revenue, we will reinvest it into mass marketing to the western audience. Or people who have the excess wealth to help.</p>
-<p>Our main goal will always be to help those who are doomed. But we will also have to make sure that we do not doom ourselves in the process.</p>
-<p>&nbsp;</p>
-<p><strong>Future ambitions:</strong></p>
-<p>Our main goal will be to minimize suffering. Households that might not have survived financially, help them to prosper. In the future, we wish to include chat, voice chat, video chat so that both parties can form a bond of some sort. We wish to implement Google Translate API to translate texts to the user&rsquo;s native language.</p>
-<p>We all might have helped a hundred strangers, but this time we will help someone we have got to know. Right now, we lack many skills and knowledge. <em>Guardian Angel</em> will not be built in a day.</p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:.0001pt;line-height:normal;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'><br>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>3.2 Implemented Technology Stack:</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:115%;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Front end: We will use HTML and CSS to design the frontend. All static pages of our web application will be made using HTML and CSS.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:115%;background:white; border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Back end: We will use python for the backend. We will turn our static pages into dynamic and functional pages using python.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:115%;background:white; border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Database: We will use MySQL for the database.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:115%;background:white; border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Framework: We will use Django as a framework. This shortens the development time. And also keep things organized.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:115%;background:white; border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Payment gateway: We will use Stripe API for payments. We will be able to use this in our test case. The authentication key will determine whether the request is live data or a test case.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:14px;font-family:"Segoe UI","sans-serif";color:#24292E;'>3.2.1 Design Pattern:</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>By default the Django framework follows the model-view-template pattern which a close immitation of the Model-view-controller. We decided to stay with this MVT pattern.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>4. BusinessPlan/Monetization</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Initially, we will keep a small portion from the donations to cover the cost of the operations to keep the service running. We will in the meantime, actively seek investors. When we will have generated revenue, we will reinvest it into mass marketing to the western audience. Or people who have the excess wealth to help.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Our main goal will always be to help those who are doomed. But we will also have to make sure that we do not doom ourselves in the process.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>We will use google addsens for primary monetization. Besides that, we will run adds for various companies and institutes that are related to providing healthcare directly or indirectly. When people donate money through our website they have to pay 5% from the donated money.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:22.45pt;margin-bottom:14.95pt;line-height:normal;background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>5. Conclusion</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:14.95pt;line-height:normal;background:white;'><span style='font-size:20px;font-family:"Segoe UI","sans-serif";color:#24292E;'>In summary Guardian Angel is a web-based site Where people will be benefited by the donated money.In this project we achieved most of the functionalities proposed. Except the Business monetization plan using Google-AdSense. We also didn&apos;t implement the function of being able to post the problem in this version of the website. During the development process we faced issues trying to integrate Payment method. The method of using the API with Bkash did not work out. As a result we decided to go with the DBBL mobile banking process.This may be a issue when we go live with the site. In the future, we plan to implement these missing functionalities, come up with a better solution for the implementation and make the platform even better.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:10.0pt;line-height:115%;'>&nbsp;</p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri","sans-serif";margin-top:0in;margin-bottom:10.0pt;line-height:115%;'>&nbsp;</p>
